@@ -5,4 +5,4 @@
 - 📫 How to reach me ... sudeep03221@gmail.com
 
 #
-![]https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Crimson-Muffin&theme=nord_dark
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Crimson-Muffin&theme=nord_dark)

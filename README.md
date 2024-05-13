@@ -4,7 +4,5 @@
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me ... sudeep03221@gmail.com
 
-<!---
-Crimson-Muffin/Crimson-Muffin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#
+![]https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Crimson-Muffin&theme=nord_dark

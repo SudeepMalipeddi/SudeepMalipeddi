@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudeep</h1>
 
-- 🔭 I’m currently working on **Library Management System**
-- 🌱 I’m currently learning **VueJs, Redis, Flask**
+- 🔭 I’m currently learning on **Web3**
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me **muffincrimson@gmail.com**
 <h3 align="center">A passionate Backend Developer from India</h3>

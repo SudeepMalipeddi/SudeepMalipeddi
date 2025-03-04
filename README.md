@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudeep</h1>
 
 - 🔭 I’m currently learning **Web3**
-- 💞️ I’m looking to collaborate on Web Development Projects
-- 📫 How to reach me **muffincrimson@gmail.com**
 <h3 align="center">A passionate Backend Developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>

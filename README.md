@@ -22,12 +22,12 @@
 ```c
 struct Developer sudeep = {
     .name       = "Sudeep Malipeddi",
-    .location   = "Bengaluru, India",
+    .location   = "Hyderabad, India",
     .currently  = "Pivoting to Systems Programming",
-    .interests  = {"OS internals", "Computer Networks",
-                   "Kernel Development"},
+    .interests  = {"OS internals", "Computer Networks", "Kernel Development"},
     .reading    = {"OSTEP", "CSAPP", "Computer Networking: A Top-down Approach"},
     .building   = "cbox — a container runtime in C",
+    .finished   = "Chip-8 Emulator",
     .goal       = "MS by Research @ IIT (Systems area)",
 };
 ```
@@ -59,8 +59,8 @@ struct Developer sudeep = {
 
 <div align="center">
 
-![Sudeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SudeepMalipeddi&show_icons=true&theme=nord&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SudeepMalipeddi&layout=compact&theme=nord&hide_border=true&hide=jupyter%20notebook,html,css)
+![Sudeep's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SudeepMalipeddi&show_icons=true&theme=nord&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SudeepMalipeddi&layout=compact&theme=nord&hide_border=true&hide=jupyter%20notebook,html,css)
 
 ![Streak Stats](https://streak-stats.demolab.com/?user=SudeepMalipeddi&theme=nord&hide_border=true)
 

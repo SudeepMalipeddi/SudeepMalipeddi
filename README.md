@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/SudeepMalipeddi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=88C0D0&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Sudeep+%F0%9F%91%8B;Systems+Programmer;Building+closer+to+the+metal;Linux+%7C+C+%7C+Kernels+%7C+Networks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=88C0D0&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Sudeep+%F0%9F%91%8B;Linux+%7C+C+%7C+Kernels+%7C+Networks" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@
 struct Developer sudeep = {
     .name       = "Sudeep Malipeddi",
     .location   = "Hyderabad, India",
-    .currently  = "Pivoting to Systems Programming",
+    .currently  = "Interested in Systems Programming",
     .interests  = {"OS internals", "Computer Networks", "Kernel Development"},
     .reading    = {"OSTEP", "CSAPP", "Computer Networking: A Top-down Approach"},
     .building   = "cbox — a container runtime in C",

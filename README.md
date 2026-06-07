@@ -51,7 +51,7 @@ struct Developer sudeep = {
 
 <b>sudeep@iith:~$ ls links/</b>
 
-  <a href="https://sudeepmalipeddi.github.io">portfolio</a>  <a href="https://github.com/SudeepMalipeddi">github</a>  <a href="https://www.linkedin.com/in/sudeep-malipeddi/">linkedin</a>  <a href="https://www.leetcode.com/sudeep03221">leetcode</a>  <a href="https://x.com/Sudeep0221">x</a>
+  <a href="https://sudeepmalipeddi.github.io">Portfolio</a>  <a href="https://www.linkedin.com/in/sudeep-malipeddi/">Linkedin</a>  <a href="https://www.leetcode.com/sudeep03221">Leetcode</a>  <a href="https://x.com/Sudeep0221">X</a>
 
 <b>sudeep@iith:~$ </b><span style="color:#4F7C82">█</span>
 </pre>

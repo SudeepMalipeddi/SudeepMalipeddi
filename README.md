@@ -4,7 +4,6 @@
   │  sudeep@iith:~$ <b>whoami</b>                                           │
   │  <b>Sudeep Malipeddi</b>                                                │
   │  MTech RA @ IIT Hyderabad · Systems &amp; Compilers                  │
-  │  GATE 99.57 Percentile · PGEE AIR 9 · Hyderabad, IN              │
   └──────────────────────────────────────────────────────────────────┘
   </pre>
 

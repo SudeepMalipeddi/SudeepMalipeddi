@@ -6,15 +6,7 @@
   │  MTech RA @ IIT Hyderabad · Systems &amp; Compilers                  │
   └──────────────────────────────────────────────────────────────────┘
   </pre>
-
-  ```c
-  struct Developer sudeep = {
-      .research  = "Code compliance via compilers and static analysis",
-      .reading   = {"OSTEP", "CSAPP", "Compiler Design"},
-      .learning  = "C++",
-  };
-  ```
-
+  
   <pre>
   <b>sudeep@iith:~$ ls projects/</b>
 
